@@ -1,5 +1,5 @@
 # selenium-grid-test
-The project uses https://github.com/SeleniumHQ/docker-selenium docker containers to perform distributed e2e testing.
+The project uses https://github.com/SeleniumHQ/docker-selenium docker containers to perform distributed e2e testing with selenium grid.
 
 # Files in the project
 ## conf.js
