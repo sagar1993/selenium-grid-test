@@ -32,6 +32,10 @@ $ docker-compose up -d
 $ docker-compose scale nodechrome=2 nodefirefox=2
 ```
 - start grid
-```$ docker-compose start```
+```
+$ docker-compose start
+```
 - grid console
-```127.0.0.1:4444/grid/console```
+```
+127.0.0.1:4444/grid/console
+```
