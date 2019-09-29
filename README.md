@@ -24,7 +24,7 @@ selenium chrome driver image: selenium/node-chrome-debug:2.53.1-americium
 ### spec.js
 file contains specs to run
 
-# Steps to run the project.
+## Steps to run the project.
 - install docker on mac https://docs.docker.com/v17.12/docker-for-mac/install/
 - start docker instance.
 ```
