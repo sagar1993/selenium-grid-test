@@ -26,6 +26,7 @@ file contains specs to run
 
 ## Steps to run the project.
 - install docker on mac https://docs.docker.com/v17.12/docker-for-mac/install/
+- install protractor
 - start docker instance.
 ```
 $ docker-compose up -d
@@ -38,4 +39,8 @@ $ docker-compose start
 - grid console
 ```
 127.0.0.1:4444/grid/console
+```
+- run the test
+```
+protractor config.js
 ```
